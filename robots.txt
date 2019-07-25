@@ -1,0 +1,14 @@
+# hexo robots.txt
+User-agent: * 
+Allow: /
+Allow: /archives/
+Allow: /about/
+Allow: /categories/
+Allow: /tags/
+Disallow: /links/
+Disallow: /repository/
+
+
+
+Sitemap: http://blog.hully.fun/sitemap.xml
+Sitemap: http://blog.hully.fun/baidusitemap.xml
